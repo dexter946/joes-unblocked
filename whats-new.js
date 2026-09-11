@@ -1,0 +1,1 @@
+const WHATS_NEW=[{date:'September 2026',title:'A sharper Joes Unblocked',text:'A futuristic arcade redesign with a faster game library and player.'},{date:'September 2026',title:'Chat and updates',text:'Community chat, Joes AI interface, and this new update feed are now live.'}];
